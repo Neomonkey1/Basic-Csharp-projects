@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
