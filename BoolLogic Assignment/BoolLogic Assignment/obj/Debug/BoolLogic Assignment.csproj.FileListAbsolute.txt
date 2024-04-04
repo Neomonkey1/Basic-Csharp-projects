@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BoolLogic Assignment\BoolLogic Assignment\bin\Debug\BoolLogic Assignment.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BoolLogic Assignment\BoolLogic Assignment\bin\Debug\BoolLogic Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BoolLogic Assignment\BoolLogic Assignment\bin\Debug\BoolLogic Assignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BoolLogic Assignment\BoolLogic Assignment\obj\Debug\BoolLogic Assignment.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BoolLogic Assignment\BoolLogic Assignment\obj\Debug\BoolLogic Assignment.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BoolLogic Assignment\BoolLogic Assignment\obj\Debug\BoolLogic Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BoolLogic Assignment\BoolLogic Assignment\obj\Debug\BoolLogic Assignment.pdb
