@@ -1,0 +1,6 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConsoleApp Assignment\ConsoleApp Assignment\bin\Debug\ConsoleApp Assignment.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConsoleApp Assignment\ConsoleApp Assignment\bin\Debug\ConsoleApp Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConsoleApp Assignment\ConsoleApp Assignment\bin\Debug\ConsoleApp Assignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConsoleApp Assignment\ConsoleApp Assignment\obj\Debug\ConsoleApp Assignment.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConsoleApp Assignment\ConsoleApp Assignment\obj\Debug\ConsoleApp Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConsoleApp Assignment\ConsoleApp Assignment\obj\Debug\ConsoleApp Assignment.pdb
