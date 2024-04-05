@@ -37,6 +37,13 @@ namespace ConditionalStatements
                 Console.WriteLine("What do we do math doesn't work!");
             }
 
+            // Using the ternary operator '?'
+            int num1 = 7;
+            int num2 = 12;
+            // in ternary operator the first value is True : the second value is False so the operator will pick the value based off if the results is True or False.
+            string result = num1 > num2 ? "num1 is greater than num2" : "num1 is not greater than num2";
+            Console.WriteLine(result);
+
             Console.ReadLine();
         }
     }

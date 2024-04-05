@@ -4,3 +4,4 @@ C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConditionalStatements
 C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
 C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
 C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.AssemblyReference.cache
