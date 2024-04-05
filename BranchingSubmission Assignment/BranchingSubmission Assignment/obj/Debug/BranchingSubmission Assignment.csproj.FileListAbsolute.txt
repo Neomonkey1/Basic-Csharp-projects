@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BranchingSubmission Assignment\BranchingSubmission Assignment\obj\Debug\BranchingSubmission Assignment.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BranchingSubmission Assignment\BranchingSubmission Assignment\obj\Debug\BranchingSubmission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BranchingSubmission Assignment\BranchingSubmission Assignment\bin\Debug\BranchingSubmission Assignment.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BranchingSubmission Assignment\BranchingSubmission Assignment\bin\Debug\BranchingSubmission Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BranchingSubmission Assignment\BranchingSubmission Assignment\bin\Debug\BranchingSubmission Assignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BranchingSubmission Assignment\BranchingSubmission Assignment\obj\Debug\BranchingSubmission Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\BranchingSubmission Assignment\BranchingSubmission Assignment\obj\Debug\BranchingSubmission Assignment.pdb
