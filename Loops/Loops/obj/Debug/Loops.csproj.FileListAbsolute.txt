@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Loops\Loops\obj\Debug\Loops.pdb
