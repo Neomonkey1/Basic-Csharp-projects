@@ -26,6 +26,17 @@ namespace ConditionalStatements
             {
                 Console.WriteLine("Your name is not Jesse or Brett");
             }
+
+            // using the not equal operator
+            if (1 != 2)
+            {
+                Console.WriteLine("All good, math still works.");
+            }
+            else
+            {
+                Console.WriteLine("What do we do math doesn't work!");
+            }
+
             Console.ReadLine();
         }
     }
