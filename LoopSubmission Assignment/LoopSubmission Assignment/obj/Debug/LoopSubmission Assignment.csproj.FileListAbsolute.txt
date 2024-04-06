@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\LoopSubmission Assignment\LoopSubmission Assignment\bin\Debug\LoopSubmission Assignment.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\LoopSubmission Assignment\LoopSubmission Assignment\bin\Debug\LoopSubmission Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\LoopSubmission Assignment\LoopSubmission Assignment\bin\Debug\LoopSubmission Assignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\LoopSubmission Assignment\LoopSubmission Assignment\obj\Debug\LoopSubmission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\LoopSubmission Assignment\LoopSubmission Assignment\obj\Debug\LoopSubmission Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\LoopSubmission Assignment\LoopSubmission Assignment\obj\Debug\LoopSubmission Assignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\LoopSubmission Assignment\LoopSubmission Assignment\obj\Debug\LoopSubmission Assignment.csproj.AssemblyReference.cache
