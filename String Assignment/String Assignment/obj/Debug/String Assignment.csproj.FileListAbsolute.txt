@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\String Assignment\String Assignment\bin\Debug\String Assignment.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\String Assignment\String Assignment\bin\Debug\String Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\String Assignment\String Assignment\bin\Debug\String Assignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\String Assignment\String Assignment\obj\Debug\String Assignment.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\String Assignment\String Assignment\obj\Debug\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\String Assignment\String Assignment\obj\Debug\String Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\String Assignment\String Assignment\obj\Debug\String Assignment.pdb
