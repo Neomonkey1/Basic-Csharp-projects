@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArrayAndList Submission\ArrayAndList Submission\bin\Debug\ArrayAndList Submission.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArrayAndList Submission\ArrayAndList Submission\bin\Debug\ArrayAndList Submission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArrayAndList Submission\ArrayAndList Submission\bin\Debug\ArrayAndList Submission.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArrayAndList Submission\ArrayAndList Submission\obj\Debug\ArrayAndList Submission.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArrayAndList Submission\ArrayAndList Submission\obj\Debug\ArrayAndList Submission.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArrayAndList Submission\ArrayAndList Submission\obj\Debug\ArrayAndList Submission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArrayAndList Submission\ArrayAndList Submission\obj\Debug\ArrayAndList Submission.pdb
