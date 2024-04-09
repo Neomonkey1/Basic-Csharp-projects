@@ -1,0 +1,6 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
