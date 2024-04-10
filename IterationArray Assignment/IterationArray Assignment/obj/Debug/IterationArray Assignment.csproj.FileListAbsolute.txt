@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\IterationArray Assignment\IterationArray Assignment\bin\Debug\IterationArray Assignment.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\IterationArray Assignment\IterationArray Assignment\bin\Debug\IterationArray Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\IterationArray Assignment\IterationArray Assignment\bin\Debug\IterationArray Assignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\IterationArray Assignment\IterationArray Assignment\obj\Debug\IterationArray Assignment.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\IterationArray Assignment\IterationArray Assignment\obj\Debug\IterationArray Assignment.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\IterationArray Assignment\IterationArray Assignment\obj\Debug\IterationArray Assignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\IterationArray Assignment\IterationArray Assignment\obj\Debug\IterationArray Assignment.pdb
