@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\StringAndIntegers Submission\StringAndIntegers Submission\bin\Debug\StringAndIntegers Submission.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\StringAndIntegers Submission\StringAndIntegers Submission\bin\Debug\StringAndIntegers Submission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\StringAndIntegers Submission\StringAndIntegers Submission\bin\Debug\StringAndIntegers Submission.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\StringAndIntegers Submission\StringAndIntegers Submission\obj\Debug\StringAndIntegers Submission.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\StringAndIntegers Submission\StringAndIntegers Submission\obj\Debug\StringAndIntegers Submission.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\StringAndIntegers Submission\StringAndIntegers Submission\obj\Debug\StringAndIntegers Submission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\StringAndIntegers Submission\StringAndIntegers Submission\obj\Debug\StringAndIntegers Submission.pdb
