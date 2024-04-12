@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Methods Submission\Methods Submission\bin\Debug\Methods Submission.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Methods Submission\Methods Submission\bin\Debug\Methods Submission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Methods Submission\Methods Submission\bin\Debug\Methods Submission.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Methods Submission\Methods Submission\obj\Debug\Methods Submission.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Methods Submission\Methods Submission\obj\Debug\Methods Submission.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Methods Submission\Methods Submission\obj\Debug\Methods Submission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\Methods Submission\Methods Submission\obj\Debug\Methods Submission.pdb
