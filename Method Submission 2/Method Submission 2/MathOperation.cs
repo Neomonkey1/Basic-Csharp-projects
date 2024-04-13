@@ -17,16 +17,16 @@ namespace Method_Submission_2
         //  Making public method for multiply decimal number then converting to int
         public int MultiplyNumbers (decimal num)
         {
-            decimal results = num * 4;
+            decimal results = num * 4m;
             return Convert.ToInt32(results);
         }
 
         //  Making public method for taking in a string, converting it to int then dividing it.
-        public string DivideString (string someInput)
+        public int DivideString (string someInput)
         {
             int num = Convert.ToInt32(someInput);
-            int results = num / 3;
-            return Convert.ToString(results);
+            return  num / 3;
+            
         }
             
     }
