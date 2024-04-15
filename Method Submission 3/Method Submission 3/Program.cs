@@ -10,23 +10,33 @@ namespace Method_Submission_3
     {
         static void Main(string[] args)
         {
+            //  Using Class MathOperation call method AddNumbers to take given values and performs operation
+            
+            MathOperation math1 = new MathOperation();
+            
             //  Asking user for input, convert input to int variable
             Console.WriteLine("Enter a number:");
             int num1 = Convert.ToInt32(Console.ReadLine());
             
-            //  Asking user for second input or to skip, input to string variable, using ternary operator (?)
-            //  if user skips input uses default value 1 otherwise converts input to int variable
+            //  Asking user for second input or to skip, input to string variable, using IF ELSE statement,
+            //  IF no input use IsNullOrEmpty() than use AddNumbers() with num1 value and second value is default value.
+            //  print results on console, ELSE convert user input to int variable then print results on console.
             Console.WriteLine("If you like enter a second number (Press Enter to skip):");
-            string input2 = Console.ReadLine();
-            int num2 = string.IsNullOrEmpty(input2) ? 1 : Convert.ToInt32(input2);
+            string input2 = Console.ReadLine();                 
+            if ( string.IsNullOrEmpty(input2))
+            {
+                int results1 = math1.AddNumbers(num1);
+                Console.WriteLine($"The result of input {num1} + 1 = {results1}.");
+            }
+            else
+            {
+                int num2 = Convert.ToInt32(input2);
+                int results1 = math1.AddNumbers(num1,num2);
+                Console.WriteLine($"The result of input {num1} + {num2} = {results1}.");
+            }
 
-            //  Using Class MathOperation call method AddNumbers to take given values and performs operation
-            //  returns value to int variable
-            MathOperation math1 = new MathOperation();
-            int results1 = math1.AddNumbers(num1, num2);
-
-            //  Print to console results
-            Console.WriteLine($"The result of input {num1} + {num2} = {results1}.");
+            
+            
             Console.ReadLine();
         }
     }
