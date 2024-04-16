@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\MethodsAndObjectsSubmission.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\MethodsAndObjectsSubmission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\MethodsAndObjectsSubmission.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\MethodsAndObjectsSubmission.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\MethodsAndObjectsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\MethodsAndObjectsSubmission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\MethodsAndObjectsSubmission.pdb
