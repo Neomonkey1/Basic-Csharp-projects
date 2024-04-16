@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassSubmission
 {
-    //  Made class Program static
+    //  Declare class Program static
     static class Program
     {
         static void Main(string[] args)
