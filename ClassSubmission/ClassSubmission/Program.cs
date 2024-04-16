@@ -13,7 +13,7 @@ namespace ClassSubmission
         {
             //  Instantiate Class 
             MathOperation math1 = new MathOperation();
-
+            
             //  Asking user for input, convert input to int variable
             Console.WriteLine("Please enter a number.");
             int num1 = Convert.ToInt32(Console.ReadLine());
@@ -30,6 +30,8 @@ namespace ClassSubmission
             //  Calling overload method, using input double value 
             math1.AddByTen(15.55);
 
+            //  Instatntiate static void class and calling method using user input
+            NewClass.SubtractByFive(num1);
 
 
 
