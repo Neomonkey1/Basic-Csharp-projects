@@ -10,10 +10,12 @@ namespace AbstractClassSubmission
     {
         static void Main(string[] args)
         {
+            //  Instantiate superclass and giving object values
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
 
+            //  Calling superclass method
             employee.SayName();
 
 
