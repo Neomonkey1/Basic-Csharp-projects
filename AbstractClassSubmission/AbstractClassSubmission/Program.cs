@@ -18,6 +18,10 @@ namespace AbstractClassSubmission
             //  Calling superclass method
             employee.SayName();
 
+            //  using polymorphism to create an object of type IQuittable,
+            //  calling method from class Employee inherit from interface IQuittable
+            IQuittable quittable = employee;
+            quittable.Quit();
 
             Console.ReadLine();
         }
