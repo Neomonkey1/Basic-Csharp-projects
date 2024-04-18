@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.pdb
