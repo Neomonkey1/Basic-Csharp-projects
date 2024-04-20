@@ -27,38 +27,11 @@ namespace ParsingEnumSubmission
                 //  Asking user for input. making string variable
                 Console.WriteLine("Which day of the week is it today?");
                 string todayDOW = Console.ReadLine();
-                //  Using enum to parse user input 
-                DaysOfWeek currentDay;
+                
+                //  Convert the user input to the enum type, added "true" to ignore cases 
+                DaysOfWeek currentDay = (DaysOfWeek)Enum.Parse(typeof(DaysOfWeek), todayDOW, true);
 
-                //  Using switch statements to go through all possible days, throw exception if invalid day is entered,
-                //  using ToLower() to help minimize user error.
-                switch (todayDOW.ToLower())
-                {
-                    case "monday":
-                        currentDay = DaysOfWeek.Monday;
-                        break;
-                    case "tuesday":
-                        currentDay = DaysOfWeek.Tuesday;
-                        break;
-                    case "wednesday":
-                        currentDay = DaysOfWeek.Wednesday;
-                        break;
-                    case "thursday":
-                        currentDay = DaysOfWeek.Thursday;
-                        break;
-                    case "friday":
-                        currentDay = DaysOfWeek.Friday;
-                        break;
-                    case "saturday":
-                        currentDay = DaysOfWeek.Saturday;
-                        break;
-                    case "sunday":
-                        currentDay = DaysOfWeek.Sunday;
-                        break;
-                    default:
-                        throw new ArgumentException("Invalid day of the week entered.");
-
-                }
+                
                 //  Print to console current day
                 Console.WriteLine($"Current day of the week: {currentDay}");
 
