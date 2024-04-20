@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParsingEnumSubmission\ParsingEnumSubmission\bin\Debug\ParsingEnumSubmission.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParsingEnumSubmission\ParsingEnumSubmission\bin\Debug\ParsingEnumSubmission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParsingEnumSubmission\ParsingEnumSubmission\bin\Debug\ParsingEnumSubmission.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParsingEnumSubmission\ParsingEnumSubmission\obj\Debug\ParsingEnumSubmission.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParsingEnumSubmission\ParsingEnumSubmission\obj\Debug\ParsingEnumSubmission.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParsingEnumSubmission\ParsingEnumSubmission\obj\Debug\ParsingEnumSubmission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ParsingEnumSubmission\ParsingEnumSubmission\obj\Debug\ParsingEnumSubmission.pdb
