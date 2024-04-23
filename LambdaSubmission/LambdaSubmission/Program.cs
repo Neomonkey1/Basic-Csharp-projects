@@ -56,10 +56,10 @@ namespace LambdaSubmission
 
             //  Making new List from List employees using Lambda expression
             //  where all employees with ID 5 and higher are added to List
-            List<Employee> idList = employees.Where(employee => employee.Id >= 5).ToList();
+            List<Employee> idList = employees.Where(employee => employee.Id > 5).ToList();
 
             //  Using foreach loop to print each employee from new List on console
-            Console.WriteLine("\nList of employees with ID numbers 5 and higher: ");
+            Console.WriteLine("\nList of employees with ID higher than numbers 5: ");
             foreach (Employee idEmp in idList)
             {
                 Console.WriteLine($"ID Number: {idEmp.Id} Full Name: {idEmp.FirstName} {idEmp.LastName}");
