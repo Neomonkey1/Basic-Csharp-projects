@@ -5,3 +5,6 @@ C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\TwentyOne\TwentyOne\o
 C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
