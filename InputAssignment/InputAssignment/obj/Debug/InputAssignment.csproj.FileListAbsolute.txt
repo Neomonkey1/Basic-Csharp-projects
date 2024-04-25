@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\InputAssignment\InputAssignment\bin\Debug\InputAssignment.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\InputAssignment\InputAssignment\obj\Debug\InputAssignment.pdb
