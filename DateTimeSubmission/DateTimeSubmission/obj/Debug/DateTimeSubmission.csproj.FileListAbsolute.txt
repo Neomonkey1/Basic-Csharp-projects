@@ -1,0 +1,6 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.pdb
