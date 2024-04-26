@@ -1,0 +1,7 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConstructorSubmission\ConstructorSubmission\bin\Debug\ConstructorSubmission.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\ConstructorSubmission\ConstructorSubmission\obj\Debug\ConstructorSubmission.pdb
