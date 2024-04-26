@@ -19,20 +19,22 @@ namespace ConstructorSubmission
             //  Print above variables to console
             Console.WriteLine($"Using const I made int {maxNumber}. {myString}");
 
-            // Creating a DateTime object
-            DateTime dateTime = new DateTime(2024, 4, 25, 11, 30, 0);
+            //  Created Person object 1 and this Person object 2 below.
+            //  Person object 1 uses no parameters constructor so uses default value
+            //  Person object 2 uses constructor that takes name and age
+            Person person1 = new Person();
 
-            //  Creating a TimeSpan object
-            TimeSpan timeSpan = new TimeSpan(2, 15, 0);
+            Person person2 = new Person("Jane Smith", 20);
 
-            //  Chain two constructors together 
-            DateTime dateSpan = dateTime.Add(timeSpan);
-
-            //  Print to console above constructors
-            Console.WriteLine($"The date and time is : {dateTime}, using TimeSpan to add {timeSpan} to get {dateSpan}");
-
-
+            //  Print to console both Person object 1 and Person object 2
+            Console.WriteLine($"Person object 1: {person1.Name} {person1.Age} and Person object 2: {person2.Name} {person2.Age}");
+            
+            
+            
+            
             Console.ReadLine();
+
+            
 
         }
     }
