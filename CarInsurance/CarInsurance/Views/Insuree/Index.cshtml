@@ -41,9 +41,7 @@
         <th>
             @Html.DisplayNameFor(model => model.CoverageType)
         </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Quote)
-        </th>
+        
         <th></th>
     </tr>
 
@@ -79,9 +77,7 @@
         <td>
             @Html.DisplayFor(modelItem => item.CoverageType)
         </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Quote)
-        </td>
+        
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
             @Html.ActionLink("Details", "Details", new { id=item.Id }) |

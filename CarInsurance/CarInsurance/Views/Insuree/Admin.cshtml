@@ -1,0 +1,28 @@
+﻿@model IEnumerable<CarInsurance.Models.Insuree>
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th class="col-md-4">First Name</th>
+            <th class="col-md-4">Last Name</th>
+            <th class="col-md-4">Email Address</th>
+            <th class="col-md-4">Quote</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var insuree in Model)
+        {
+            <tr>
+                <td class="col-md-4">@insuree.FirstName</td>
+                <td class="col-md-4">@insuree.LastName</td>
+                <td class="col-md-4">@insuree.EmailAddress</td>
+                <td class="col-md-4">@insuree.Quote</td>
+            </tr>
+        }
+    </tbody>
+</table>

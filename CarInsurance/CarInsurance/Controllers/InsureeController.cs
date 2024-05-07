@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -122,6 +123,68 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        //  Adding Admin view to controller
+        public ActionResult Admin()
+        {
+            var insurees = db.Insurees.ToList();
+            return View(insurees);
+        }
+
+        //  Making method to calculate quote
+        private decimal CalculateQuote(Insuree insuree)
+        {
+            //  Base quote variable
+            decimal quote = 50;
+
+            //  Age base calculations 
+            if (insuree.DateOfBirth <= DateTime.Today.AddYears(-18))
+            {
+                quote += 100;
+            }
+
+            else if (insuree.DateOfBirth >= DateTime.Today.AddYears(-19) && insuree.DateOfBirth <= DateTime.Today.AddYears(-25))
+            {
+                quote += 50;
+            }
+            else
+            {
+                quote += 25;
+            }
+                
+            //  Car year calculations
+            if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
+            {
+                quote += 25;
+            }
+
+            //  Car Make calculations
+            if (insuree.CarMake == "Porsche".ToLower())
+            {
+                quote += 25;
+                if (insuree.CarModel == "911 Carrera".ToLower())
+                {
+                    quote += 25;
+                }
+            }
+
+            //  Speeding tickets calculation
+            quote += insuree.SpeedingTickets * 10;
+
+            //  DUI calculation
+            if (insuree.DUI)
+            {
+                quote *= 1.25m;
+            }
+
+            //  Coverage type calculation
+            if ( insuree.CoverageType == true)
+            {
+                quote *= 1.5m;
+            }
+
+            return quote;
         }
     }
 }
