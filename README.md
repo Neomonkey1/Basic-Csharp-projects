@@ -1,1 +1,5 @@
-# Basic Project using C# and .NET learned from "The Tech Academy"
+# C# and .NET Projects
+Here are a lot of small projects I did for "The Tech Academy" using C# and .NET framework.
+
+# Projects
+TwentyOne
