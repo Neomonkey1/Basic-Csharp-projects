@@ -1,0 +1,37 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to my WebApp.</h1>
+    @{
+        var greetingMessage = "This message was done using Razor code.";
+    }
+    <h2>@greetingMessage</h2>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <form action="#" method="post">
+        <input type="button" value="Click for a message." onclick="window.alert('Hello, Thanks for clicking the button');"
+    </form>
+    <p>The current server time is: <span id="serverTime"></span></p>
+    @section Scripts {
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                var serverTimeElement = document.getElementById("serverTime");
+
+                function updateServerTime() {
+                    var currentDate = new Date();
+                    serverTimeElement.innerText = currentDate.toLocaleString();
+                }
+
+                // Update server time initially
+                updateServerTime();
+
+                // Update server time every second
+                setInterval(updateServerTime, 1000);
+            });
+        </script>
+    }
+    
+</div>
