@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Step548Challenge\\Step548Challenge.csproj": {}
+    "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Basic-C--projects\\Step548Challenge\\Step548Challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Step548Challenge\\Step548Challenge.csproj": {
+    "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Basic-C--projects\\Step548Challenge\\Step548Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Step548Challenge\\Step548Challenge.csproj",
+        "projectUniqueName": "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Basic-C--projects\\Step548Challenge\\Step548Challenge.csproj",
         "projectName": "Step548Challenge",
-        "projectPath": "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Step548Challenge\\Step548Challenge.csproj",
+        "projectPath": "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Basic-C--projects\\Step548Challenge\\Step548Challenge.csproj",
         "packagesPath": "C:\\Users\\neomo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Step548Challenge\\obj\\",
+        "outputPath": "C:\\Users\\neomo\\OneDrive\\Documents\\GitHub\\Basic-C--projects\\Step548Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
