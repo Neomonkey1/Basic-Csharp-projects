@@ -1,0 +1,12 @@
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\bin\Debug\FinalChallenge.exe.config
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\bin\Debug\FinalChallenge.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\bin\Debug\FinalChallenge.pdb
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\bin\Debug\EntityFramework.dll
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\bin\Debug\EntityFramework.xml
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\obj\Debug\FinalChallenge.csproj.AssemblyReference.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\obj\Debug\FinalCha.7294F6F5.Up2Date
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\obj\Debug\FinalChallenge.exe
+C:\Users\neomo\OneDrive\Documents\GitHub\Basic-C--projects\FinalChallenge\obj\Debug\FinalChallenge.pdb
