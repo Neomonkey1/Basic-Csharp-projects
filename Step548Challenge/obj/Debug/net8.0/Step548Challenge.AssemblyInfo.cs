@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Step548Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3c9e4c145a91bda5a2009c3502124ef1d7fb345")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a2c225bec9ecd79c6668cced9d5a44bc8ff1f03")]
 [assembly: System.Reflection.AssemblyProductAttribute("Step548Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Step548Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
